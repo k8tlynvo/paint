@@ -1,0 +1,6 @@
+*.o
+*.out
+*.txt
+*.zip
+.DS_Store
+Info.plist
